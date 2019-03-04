@@ -12,3 +12,4 @@ C:\Users\david\source\repos\CalendarTest\CalendarTest\obj\Debug\CalendarTest.csp
 C:\Users\david\source\repos\CalendarTest\CalendarTest\obj\Debug\CalendarTest.csproj.CoreCompileInputs.cache
 C:\Users\david\source\repos\CalendarTest\CalendarTest\obj\Debug\CalendarTest.exe
 C:\Users\david\source\repos\CalendarTest\CalendarTest\obj\Debug\CalendarTest.pdb
+C:\Users\david\source\repos\CalendarTest\CalendarTest\obj\Debug\CalendarTest.csprojAssemblyReference.cache

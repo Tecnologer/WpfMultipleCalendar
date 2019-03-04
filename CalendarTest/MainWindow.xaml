@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:CalendarTest"
         mc:Ignorable="d" Name="MyWindow"
-        Title="Mi Calendario" Height="450" Width="800">
+        Title="Mi Calendario" Height="600" Width="800">
     <Grid>
         <ListBox ItemsSource="{Binding MyCalendars}" Margin="5 10 5 5">
             <ListBox.Template>

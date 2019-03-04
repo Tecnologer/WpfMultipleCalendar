@@ -1,0 +1,14 @@
+C:\Users\david\source\repos\CalendarTest\CalendarTest\bin\Debug\CalendarTest.exe.config
+C:\Users\david\source\repos\CalendarTest\CalendarTest\bin\Debug\CalendarTest.exe
+C:\Users\david\source\repos\CalendarTest\CalendarTest\bin\Debug\CalendarTest.pdb
+C:\Users\david\source\repos\CalendarTest\CalendarTest\obj\Debug\MainWindow.g.cs
+C:\Users\david\source\repos\CalendarTest\CalendarTest\obj\Debug\App.g.cs
+C:\Users\david\source\repos\CalendarTest\CalendarTest\obj\Debug\CalendarTest_MarkupCompile.cache
+C:\Users\david\source\repos\CalendarTest\CalendarTest\obj\Debug\CalendarTest_MarkupCompile.lref
+C:\Users\david\source\repos\CalendarTest\CalendarTest\obj\Debug\MainWindow.baml
+C:\Users\david\source\repos\CalendarTest\CalendarTest\obj\Debug\CalendarTest.g.resources
+C:\Users\david\source\repos\CalendarTest\CalendarTest\obj\Debug\CalendarTest.Properties.Resources.resources
+C:\Users\david\source\repos\CalendarTest\CalendarTest\obj\Debug\CalendarTest.csproj.GenerateResource.cache
+C:\Users\david\source\repos\CalendarTest\CalendarTest\obj\Debug\CalendarTest.csproj.CoreCompileInputs.cache
+C:\Users\david\source\repos\CalendarTest\CalendarTest\obj\Debug\CalendarTest.exe
+C:\Users\david\source\repos\CalendarTest\CalendarTest\obj\Debug\CalendarTest.pdb

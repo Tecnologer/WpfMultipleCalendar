@@ -20,7 +20,7 @@ namespace CalendarTest
     /// <summary>
     /// Interaction logic for MainWindow.xaml
     /// </summary>
-    public partial class MainWindow : Window, INotifyPropertyChanged
+    public partial class MainWindow : Window
     {
         public ObservableCollection<MyCalendar> MyCalendars { get; private set; }
         public MainWindow()
@@ -40,12 +40,6 @@ namespace CalendarTest
             Calendar calObj = sender as Calendar;
 
             calObj.DisplayMode = CalendarMode.Month;
-        }
-
-        public event PropertyChangedEventHandler PropertyChanged;
-        private void OnPropertyChanged(string propertyName)
-        {
-            PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(propertyName));
         }
     }
 
